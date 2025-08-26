@@ -1,6 +1,6 @@
 MoodFusion 🎙️📷
 
-MoodFusion is a multimodal emotion detection system** that combines speech (audio) and facial expressions (video) to classify human emotions such as Happy, Sad, Angry, and Neutral.  
+MoodFusion is a multimodal emotion detection system that combines speech (audio) and facial expressions (video) to classify human emotions such as Happy, Sad, Angry, and Neutral.  
 Developed in MATLAB using audio signal processing and computer vision techniques.
 
 ---
